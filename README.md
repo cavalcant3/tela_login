@@ -1,6 +1,6 @@
 # Tela de login com Material UI
 
-Apenas testando o framework de estilização
+Apenas testando o framework de estilização.
 
 ## Authors
 
