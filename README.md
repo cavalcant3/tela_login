@@ -28,7 +28,7 @@ Para dúvidas: jmatheusoc269@gmail.com
 ## Screenshots
 
 ![tela1.jpeg](/assets/img1.jpeg)
-![tela2.jpeg](/assets/img1.jpeg)
+![tela2.jpeg](/assets/img2.jpeg)
 
 ## Run Locally
 
